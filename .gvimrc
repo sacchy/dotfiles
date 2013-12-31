@@ -12,3 +12,6 @@ set cmdheight=2
 
 " 画面を黒地に白にする (次行の先頭の " を削除すれば有効になる)
 set background=dark "背景色：黒
+
+" 日本語入力が中断されるのを回避
+set imdisable
