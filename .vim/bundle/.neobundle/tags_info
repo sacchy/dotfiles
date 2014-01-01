@@ -1,4 +1,5 @@
 neocomplete.vim
+neosnippet
 tcomment_vim
 unite.vim
 vim-latex
