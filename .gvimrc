@@ -15,3 +15,6 @@ set background=dark "背景色：黒
 
 " 日本語入力が中断されるのを回避
 set imdisable
+
+" 自動改行回避
+set textwidth=0
